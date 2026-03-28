@@ -33,30 +33,28 @@ This repository focuses on building strong skills in:
 
 ---
 
-## 📂 Repository Structure
+📂 Repository Structure
 
-| 📘 Notebook                            | 📌 Description            |
-| -------------------------------------- | ------------------------- |
-| Pandas_01_(series).ipynb               | Series fundamentals       |
-| Pandas_02_(dataframe).ipynb            | DataFrame basics          |
-| Pandas_03_(read_csv).ipynb             | Reading datasets          |
-| Pandas_04_(part1_csv).ipynb            | CSV operations (Part 1)   |
-| Pandas_05_(part2_csv).ipynb            | CSV operations (Part 2)   |
-| Pandas_06_(part3_csv).ipynb            | CSV operations (Part 3)   |
-| Pandas_07_(missing_values).ipynb       | Missing data handling     |
-| Pandas_08_(null_values).ipynb          | Understanding null values |
-| Pandas_09_(Drop_NaN_values).ipynb      | Removing missing values   |
-| Pandas_10_(fillna_function).ipynb      | Filling missing values    |
-| Pandas_11_(replace_function).ipynb     | Data replacement          |
-| Pandas_12_(Interpolate_function).ipynb | Interpolation methods     |
-| Pandas_13_(loc_&_iloc).ipynb           | Data selection            |
-| Pandas_14_(groupby_function).ipynb     | Grouping & aggregation    |
-| Pandas_15_(merge_function).ipynb       | Merging datasets          |
-| Pandas_16_(Concat_function).ipynb      | Concatenation             |
-| Pandas_17_(Join_Function).ipynb        | Joining data              |
-| Pandas_18_(Pivot_table).ipynb          | Pivot tables              |
-| Pandas_19_(Melt_Function).ipynb        | Data reshaping            |
-| Pandas_20_(Delete_index_date).ipynb    | Index & data deletion     |
+Pandas_01_(series).ipynb             → Series fundamentals
+Pandas_02_(dataframe).ipynb          → DataFrame basics
+Pandas_03_(read_csv).ipynb           → Reading datasets
+Pandas_04_(part1_csv).ipynb          → CSV operations (Part 1)
+Pandas_05_(part2_csv).ipynb          → CSV operations (Part 2)
+Pandas_06_(part3_csv).ipynb          → CSV operations (Part 3)
+Pandas_07_(missing_values).ipynb     → Missing data handling
+Pandas_08_(null_values).ipynb        → Understanding null values
+Pandas_09_(Drop_NaN_values).ipynb    → Removing missing values
+Pandas_10_(fillna_function).ipynb    → Filling missing values
+Pandas_11_(replace_function).ipynb   → Data replacement
+Pandas_12_(Interpolate_function).ipynb → Interpolation methods
+Pandas_13_(loc_&_iloc).ipynb         → Data selection
+Pandas_14_(groupby_function).ipynb   → Grouping & aggregation
+Pandas_15_(merge_function).ipynb     → Merging datasets
+Pandas_16_(Concat_function).ipynb    → Concatenation
+Pandas_17_(Join_Function).ipynb      → Joining data
+Pandas_18_(Pivot_table).ipynb        → Pivot tables
+Pandas_19_(Melt_Function).ipynb      → Data reshaping
+Pandas_20_(Delete_index_date).ipynb  → Index & data deletion
 
 ---
 
