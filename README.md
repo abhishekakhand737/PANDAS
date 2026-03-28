@@ -73,7 +73,7 @@ This repository ensures a strong understanding of:
 * 📊 GroupBy & aggregation
 * 🔗 Merge, Join, and Concat
 * 🔁 Data reshaping (Pivot & Melt)
-* 🧩 Indexing and transformation
+* 🧩 Indexing and transformation.
 
 ---
 
