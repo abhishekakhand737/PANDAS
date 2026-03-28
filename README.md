@@ -152,7 +152,6 @@ By completing this project, you will:
 
 **Abhishek Akhand**
 🎓 B.Tech – Artificial Intelligence & Data Science
-🚀 Aspiring AI & Data Science Engineer
 
 🔗 GitHub: https://github.com/abhishekakhand737
 
