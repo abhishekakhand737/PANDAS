@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-28a745?style=flat-square)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-0075ca?style=flat-square)
 
-A structured, self-documented collection of Jupyter Notebooks covering Pandas from first principles to advanced data manipulation techniques. Each notebook reflects what I explored, the problems I solved, and the patterns I internalized along the way.
+A structured, self-documented collection of Jupyter Notebooks covering Pandas from first principles to advanced data manipulation techniques. Each notebook reflect what I explored, the problems I solved, and the patterns I internalized along the way.
 
 ---
 
