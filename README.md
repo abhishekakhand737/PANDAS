@@ -130,7 +130,7 @@ jupyter notebook
 ## Author
 
 **Abhishek Akhand**
-B.Tech — Artificial Intelligence and Data Science
+B.Tech — Artificial Intelligence and Data Science.
 
 GitHub: [abhishekakhand737](https://github.com/abhishekakhand737)
 
